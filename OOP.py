@@ -100,7 +100,7 @@ cool_reviewer_1 = Reviewer('John', 'Kennedy')
 cool_reviewer_1.courses_attached += ['Python']
 cool_reviewer_1.courses_attached += ['Git']
 
-cool_reviewer_2 = Reviewer('Lyndon', 'Lyndon')
+cool_reviewer_2 = Reviewer('Lyndon', 'Johnson')
 cool_reviewer_2.courses_attached += ['Python']
 cool_reviewer_2.courses_attached += ['Git']
 
